@@ -1,0 +1,34 @@
+<map id="EmotiBitWiFiRoboTEA::processAdvertisingThread" name="EmotiBitWiFiRoboTEA::processAdvertisingThread">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,186,229"/>
+<area shape="rect" id="Node000002" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a479561ab9243c7c085df1e01cfcf7f8b" title=" " alt="" coords="234,153,389,196"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,191,218,186,219,192,186,197"/>
+<area shape="rect" id="Node000015" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#ae7b22f66bc205f148a1596adae8741a1" title=" " alt="" coords="234,220,389,263"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="186,219,219,224,218,230,186,225"/>
+<area shape="rect" id="Node000003" href="$classq_emoti_bit_packet.html#ad39b7339e5dba5abc9d2d5b7a20a3315" title="Crea un paquete EmotiBit a partir de datos en formato QString." alt="" coords="672,73,877,100"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,152,338,121,363,84,396,49,436,22,476,8,517,3,560,5,601,12,678,36,737,63,735,68,676,41,600,17,559,10,518,8,477,13,438,26,399,53,367,87,342,123,325,154"/>
+<area shape="rect" id="Node000004" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#af1855addc34d9d45f04a50c350a76f56" title=" " alt="" coords="453,36,608,79"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="339,151,383,119,436,88,448,83,450,88,438,93,386,124,342,155"/>
+<area shape="rect" id="Node000005" href="$classq_emoti_bit_packet.html#a9262319d6d9df0e2f7ecee825e9977f2" title="Extrae el encabezado de un paquete a partir de su representación en texto completo." alt="" coords="437,103,624,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="389,151,462,131,464,137,390,156"/>
+<area shape="rect" id="Node000006" href="$classq_emoti_bit_packet.html#a94508ded64f65eb9f9fbae50efa36208" title="Busca y extrae el valor asociado a una clave (key) en un paquete representado como QStringList." alt="" coords="438,153,624,196"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="390,172,422,172,422,177,390,177"/>
+<area shape="rect" id="Node000007" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#abce274263f298bd5500d3ce59c61a9fc" title=" " alt="" coords="453,220,608,263"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="384,194,444,212,443,218,383,199"/>
+<area shape="rect" id="Node000013" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a038c54ef88640a7c9738a22f13ce96e8" title=" " alt="" coords="697,279,852,321"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="373,194,391,206,406,224,414,242,422,258,438,272,497,297,561,309,624,313,681,311,681,316,624,318,560,314,496,302,436,277,418,262,409,244,402,227,387,210,370,199"/>
+<area shape="rect" id="Node000014" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a07ad6db58721595b5c929633c9f419f5" title=" " alt="" coords="448,337,613,380"/>
+<area shape="poly" id="edge16_Node000002_Node000014" title=" " alt="" coords="376,195,391,206,403,221,410,235,416,263,421,290,428,303,439,317,451,327,447,331,435,321,423,306,416,292,410,264,405,237,398,224,387,210,373,199"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="600,217,623,206,693,157,747,109,751,113,696,161,626,210,602,222"/>
+<area shape="rect" id="Node000008" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a7c5bb7f21f7a168274d428223917946d" title=" " alt="" coords="696,212,853,255"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="609,236,680,234,681,239,609,241"/>
+<area shape="poly" id="edge14_Node000007_Node000013" title=" " alt="" coords="610,257,682,275,681,280,608,263"/>
+<area shape="rect" id="Node000009" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a7447abf3fade143a598184d65df41092" title=" " alt="" coords="931,145,1086,188"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="851,209,915,190,917,195,852,214"/>
+<area shape="rect" id="Node000010" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a932279040f097f60fd486163972c328c" title=" " alt="" coords="925,212,1092,255"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="853,231,909,231,909,236,853,236"/>
+<area shape="rect" id="Node000012" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a3677dd6ccbfe65acceb8c9b53e7df2a4" title=" " alt="" coords="927,279,1090,321"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="852,253,917,271,915,276,851,258"/>
+<area shape="rect" id="Node000011" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#ad3a7e685f53ec9d95050561d3b3fdef3" title=" " alt="" coords="1140,245,1295,288"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1093,244,1125,249,1124,255,1092,249"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="1090,284,1124,279,1125,284,1091,290"/>
+</map>

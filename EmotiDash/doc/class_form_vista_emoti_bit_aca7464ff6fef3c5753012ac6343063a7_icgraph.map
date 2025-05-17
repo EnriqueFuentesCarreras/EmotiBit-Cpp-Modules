@@ -1,0 +1,14 @@
+<map id="FormVistaEmotiBit::signalLogEmotiBit" name="FormVistaEmotiBit::signalLogEmotiBit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="380,72,519,115"/>
+<area shape="rect" id="Node000002" href="$class_form_vista_emoti_bit.html#ad8acf2a131a849e3fa1040941958d638" title="Inicia la grabación en el dispositivo." alt="" coords="193,5,332,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,69,323,51,325,46,375,64"/>
+<area shape="rect" id="Node000003" href="$class_form_vista_emoti_bit.html#a355b18e2baa02a0921608a7aabfa24c3" title="Inicia la grabación especificando una ruta de almacenamiento." alt="" coords="193,72,332,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="365,96,332,96,332,91,365,91"/>
+<area shape="rect" id="Node000004" href="$class_form_vista_emoti_bit.html#a757e5fdc47fac77364963e441c953600" title="Detiene la grabación activa." alt="" coords="193,139,332,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="375,123,325,141,323,136,373,118"/>
+<area shape="rect" id="Node000005" href="$class_form_vista_emoti_bit.html#ac8590bd020882bd3045898adeca7276d" title="Constructor de VistaEmotibit." alt="" coords="5,105,145,148"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="177,148,145,142,146,136,178,142"/>
+<area shape="rect" id="Node000006" href="$class_form_vista_emoti_bit.html#ad3105a98b83c93874f5f010d83251aa4" title="Destructor de la clase FormVistaEmotiBit." alt="" coords="5,172,145,215"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="178,178,146,184,145,178,177,172"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="105,92,94,86,75,84,58,86,47,91,43,97,44,104,39,105,38,95,44,86,56,81,75,79,95,81,107,87"/>
+</map>

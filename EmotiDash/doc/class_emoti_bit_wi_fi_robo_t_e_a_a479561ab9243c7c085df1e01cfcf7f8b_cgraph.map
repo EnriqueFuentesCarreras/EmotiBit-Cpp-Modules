@@ -1,0 +1,30 @@
+<map id="EmotiBitWiFiRoboTEA::processAdvertising" name="EmotiBitWiFiRoboTEA::processAdvertising">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,161,196"/>
+<area shape="rect" id="Node000002" href="$classq_emoti_bit_packet.html#ad39b7339e5dba5abc9d2d5b7a20a3315" title="Crea un paquete EmotiBit a partir de datos en formato QString." alt="" coords="444,73,648,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,152,109,121,135,84,167,49,207,22,247,8,289,3,331,5,373,12,449,36,509,63,507,68,447,41,372,17,331,10,289,8,249,13,210,26,171,53,139,87,114,123,97,154"/>
+<area shape="rect" id="Node000003" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#af1855addc34d9d45f04a50c350a76f56" title=" " alt="" coords="225,36,380,79"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,151,155,119,207,88,219,83,221,88,210,93,158,124,114,155"/>
+<area shape="rect" id="Node000004" href="$classq_emoti_bit_packet.html#a9262319d6d9df0e2f7ecee825e9977f2" title="Extrae el encabezado de un paquete a partir de su representación en texto completo." alt="" coords="209,103,396,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,151,234,131,235,137,162,156"/>
+<area shape="rect" id="Node000005" href="$classq_emoti_bit_packet.html#a94508ded64f65eb9f9fbae50efa36208" title="Busca y extrae el valor asociado a una clave (key) en un paquete representado como QStringList." alt="" coords="209,153,396,196"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,172,193,172,193,177,161,177"/>
+<area shape="rect" id="Node000006" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#abce274263f298bd5500d3ce59c61a9fc" title=" " alt="" coords="225,220,380,263"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,194,216,212,214,218,154,199"/>
+<area shape="rect" id="Node000012" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a038c54ef88640a7c9738a22f13ce96e8" title=" " alt="" coords="468,279,624,321"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="105,194,150,236,179,256,210,272,271,291,334,301,396,305,453,305,453,310,396,310,334,306,269,296,208,277,176,261,147,240,102,198"/>
+<area shape="rect" id="Node000013" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a07ad6db58721595b5c929633c9f419f5" title=" " alt="" coords="220,337,385,380"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="101,195,146,254,176,287,210,317,228,328,225,332,207,321,172,291,141,258,96,198"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="371,217,395,206,464,157,519,109,522,113,468,161,397,210,374,222"/>
+<area shape="rect" id="Node000007" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a7c5bb7f21f7a168274d428223917946d" title=" " alt="" coords="468,212,624,255"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="381,236,452,234,452,239,381,241"/>
+<area shape="poly" id="edge13_Node000006_Node000012" title=" " alt="" coords="381,257,454,275,453,280,380,263"/>
+<area shape="rect" id="Node000008" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a7447abf3fade143a598184d65df41092" title=" " alt="" coords="702,145,858,188"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="622,209,687,190,689,195,624,214"/>
+<area shape="rect" id="Node000009" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a932279040f097f60fd486163972c328c" title=" " alt="" coords="696,212,864,255"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="624,231,681,231,681,236,624,236"/>
+<area shape="rect" id="Node000011" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a3677dd6ccbfe65acceb8c9b53e7df2a4" title=" " alt="" coords="699,279,861,321"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="624,253,689,271,687,276,622,258"/>
+<area shape="rect" id="Node000010" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#ad3a7e685f53ec9d95050561d3b3fdef3" title=" " alt="" coords="912,245,1067,288"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="865,244,897,249,896,255,864,249"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="861,284,896,279,897,284,862,290"/>
+</map>

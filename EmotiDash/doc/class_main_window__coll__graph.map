@@ -1,0 +1,5 @@
+<map id="MainWindow" name="MainWindow">
+<area shape="rect" id="Node000001" title="Ventana principal que aloja la interfaz gráfica principal." alt="" coords="5,123,120,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,5,111,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,89,66,123,60,123,60,89"/>
+</map>

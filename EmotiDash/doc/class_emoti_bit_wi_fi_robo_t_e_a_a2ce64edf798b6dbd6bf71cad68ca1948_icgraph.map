@@ -1,0 +1,9 @@
+<map id="EmotiBitWiFiRoboTEA::sendControl" name="EmotiBitWiFiRoboTEA::sendControl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,72,364,115"/>
+<area shape="rect" id="Node000002" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#aa5bf5d6537f664db044d1d6617bb7a50" title=" " alt="" coords="5,5,161,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,69,150,51,151,46,206,64"/>
+<area shape="rect" id="Node000003" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#acc685929a99fb805ec857ba3ac51d8de" title="Envia una orden al EmotiBit conectado para iniciar la grabación." alt="" coords="5,72,161,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,96,161,96,161,91,193,91"/>
+<area shape="rect" id="Node000004" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#aa681c28a859c06dfdeeefa5f4c2084ef" title=" " alt="" coords="5,139,161,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,122,151,141,150,135,204,117"/>
+</map>

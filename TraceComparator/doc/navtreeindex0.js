@@ -1,0 +1,24 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_channel_frequencies.html":[0,0,0],
+"class_channel_frequencies.html#a08124701532a17970ddff06dcf74f078":[0,0,0,3],
+"class_channel_frequencies.html#a22623286102c40b595d8ab812bfda1c0":[0,0,0,2],
+"class_channel_frequencies.html#a613a5d6e9e0e88f031abc8d4eb474405":[0,0,0,0],
+"class_channel_frequencies.html#afcbaa0ffbdfad4afe62745adc63e8805":[0,0,0,1],
+"class_emoti_bit_parser.html":[0,0,1],
+"class_emoti_bit_parser.html#a0e545344ead192666cc67aafac67b5f6":[0,0,1,1],
+"class_emoti_bit_parser.html#a4e7cbfb00af475e44caaf2fc6652364c":[0,0,1,0],
+"class_main_window.html":[0,0,2],
+"class_main_window.html#a996c5a2b6f77944776856f08ec30858d":[0,0,2,0],
+"classes.html":[0,1],
+"functions.html":[0,3,0],
+"functions_func.html":[0,3,1],
+"functions_vars.html":[0,3,2],
+"hierarchy.html":[0,2],
+"index.html":[],
+"pages.html":[],
+"struct_sample.html":[0,0,3],
+"struct_sample.html#a7ef3a6f34fb96ae3bd497343fe024521":[0,0,3,0],
+"struct_sample.html#ab670f79c625f215001e9dac147106e89":[0,0,3,1]
+};

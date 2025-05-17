@@ -1,0 +1,18 @@
+<map id="EmotiBitController::newMessage" name="EmotiBitController::newMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,229,344,272"/>
+<area shape="rect" id="Node000002" href="$class_emoti_bit_controller.html#aeec0ab533183f5ec3ef32dcf6f5e7764" title=" " alt="" coords="22,5,152,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,216,227,139,200,98,167,62,151,51,154,46,170,58,204,95,232,136,269,213"/>
+<area shape="rect" id="Node000003" href="$class_emoti_bit_controller.html#a34b8a66f1a7f1db085fc8ac615a3ce6b" title=" " alt="" coords="5,72,169,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,219,216,173,167,129,148,118,151,113,170,125,220,169,258,215"/>
+<area shape="rect" id="Node000004" href="$class_form_vista_emoti_bit.html#ac8590bd020882bd3045898adeca7276d" title="Constructor de VistaEmotibit." alt="" coords="17,163,157,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,226,150,208,152,203,203,221"/>
+<area shape="rect" id="Node000005" href="$class_emoti_bit_controller.html#a7f780b74cdd5a000cb9a4cf1dbf276a8" title=" " alt="" coords="14,229,160,272"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="201,253,160,253,160,248,201,248"/>
+<area shape="rect" id="Node000006" href="$class_emoti_bit_controller.html#a7e8c8e4af5bd2259f0adb201c2cb29c1" title=" " alt="" coords="12,296,162,339"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="203,280,152,298,150,293,202,275"/>
+<area shape="rect" id="Node000007" href="$class_emoti_bit_controller.html#aa978c842e498fb0c9ddc4b3fc08fd0f6" title=" " alt="" coords="15,363,159,405"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="251,285,214,320,170,353,149,364,147,360,167,348,211,316,247,281"/>
+<area shape="rect" id="Node000008" href="$class_emoti_bit_controller.html#ac6fc160c3e523a28bd9c80dded03cdc3" title=" " alt="" coords="12,429,162,472"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="266,288,228,354,201,389,170,419,153,431,150,427,167,415,197,385,223,351,261,285"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="118,149,106,144,87,141,69,143,58,148,54,154,55,162,50,163,48,153,55,144,68,138,87,136,108,138,120,145"/>
+</map>

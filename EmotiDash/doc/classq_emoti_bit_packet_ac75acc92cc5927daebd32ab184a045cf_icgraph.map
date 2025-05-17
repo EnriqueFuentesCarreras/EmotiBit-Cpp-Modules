@@ -1,0 +1,13 @@
+<map id="qEmotiBitPacket::getPacketElement" name="qEmotiBitPacket::getPacketElement">
+<area shape="rect" id="Node000001" title="Extrae un único elemento (campo) del paquete a partir de una posición dada." alt="" coords="850,39,1036,81"/>
+<area shape="rect" id="Node000002" href="$classq_emoti_bit_packet.html#a00426dad59730dc598c547789652c8a0" title="Busca y extrae el valor asociado a una clave (key) en un paquete representado como QString." alt="" coords="615,5,802,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="834,47,802,43,803,37,835,42"/>
+<area shape="rect" id="Node000003" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a668d3244786b7408322174850ca44aaa" title=" " alt="" coords="631,72,786,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="835,78,787,85,786,80,834,73"/>
+<area shape="rect" id="Node000004" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#afa6092c5b41153887bc9faf76a775edc" title=" " alt="" coords="412,72,567,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="615,96,568,96,568,91,615,91"/>
+<area shape="rect" id="Node000005" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a19f2caa38c7732e97a4bb4b7327e6358" title=" " alt="" coords="209,72,364,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="397,96,365,96,365,91,397,91"/>
+<area shape="rect" id="Node000006" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#afb3095e8c8643fae1da87c36e97d745a" title="Inicializa la conexión WiFi con el dispositivo EmotiBit." alt="" coords="5,72,161,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="193,96,161,96,161,91,193,91"/>
+</map>

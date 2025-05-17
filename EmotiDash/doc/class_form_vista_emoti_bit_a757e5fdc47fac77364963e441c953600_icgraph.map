@@ -1,0 +1,8 @@
+<map id="FormVistaEmotiBit::stopRecording" name="FormVistaEmotiBit::stopRecording">
+<area shape="rect" id="Node000001" title="Detiene la grabación activa." alt="" coords="193,63,332,105"/>
+<area shape="rect" id="Node000002" href="$class_form_vista_emoti_bit.html#ac8590bd020882bd3045898adeca7276d" title="Constructor de VistaEmotibit." alt="" coords="5,29,145,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,72,145,66,146,60,178,66"/>
+<area shape="rect" id="Node000003" href="$class_form_vista_emoti_bit.html#ad3105a98b83c93874f5f010d83251aa4" title="Destructor de la clase FormVistaEmotiBit." alt="" coords="5,96,145,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="178,102,146,108,145,102,177,96"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="105,16,94,10,75,8,58,10,47,15,43,21,44,28,39,29,38,19,44,10,56,5,75,3,95,5,107,11"/>
+</map>

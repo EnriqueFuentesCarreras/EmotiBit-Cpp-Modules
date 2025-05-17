@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::WindowModality::WindowModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1409</width>
+    <height>879</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="font">
+   <font>
+    <kerning>false</kerning>
+   </font>
+  </property>
+  <property name="acceptDrops">
+   <bool>false</bool>
+  </property>
+  <property name="windowTitle">
+   <string notr="true">TraceComparator</string>
+  </property>
+  <property name="windowIcon">
+   <iconset theme="QIcon::ThemeIcon::Computer"/>
+  </property>
+  <property name="statusTip">
+   <string notr="true"/>
+  </property>
+  <property name="whatsThis">
+   <string notr="true"/>
+  </property>
+  <property name="accessibleName">
+   <string notr="true"/>
+  </property>
+  <property name="accessibleDescription">
+   <string notr="true"/>
+  </property>
+  <property name="layoutDirection">
+   <enum>Qt::LayoutDirection::LeftToRight</enum>
+  </property>
+  <property name="animated">
+   <bool>false</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LayoutDirection::LeftToRight</enum>
+   </property>
+   <widget class="QComboBox" name="channelCombo">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>50</y>
+      <width>101</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <item>
+     <property name="text">
+      <string>AX</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>AY</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>AZ</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>GX</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>GY</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>GZ</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>MX</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>MY</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>MZ</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>T1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>TH</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>EA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>EL</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>ER</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>PI</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>PR</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>PG</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>HR</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>SR</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>SF</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>SA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>BI</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>BV</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="labelChannel">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>20</y>
+      <width>94</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="text">
+     <string>Seleccionar canal:</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="filePcBtn">
+    <property name="geometry">
+     <rect>
+      <x>730</x>
+      <y>10</y>
+      <width>151</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="text">
+     <string>Seleccionar archivo PC</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="fileSdBtn">
+    <property name="geometry">
+     <rect>
+      <x>890</x>
+      <y>10</y>
+      <width>161</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="text">
+     <string>Seleccionar archivo SD</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="calcCoincidenceBtn">
+    <property name="geometry">
+     <rect>
+      <x>1230</x>
+      <y>10</y>
+      <width>141</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="text">
+     <string>Calcular coincidencia</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="plotBtn">
+    <property name="geometry">
+     <rect>
+      <x>1060</x>
+      <y>10</y>
+      <width>161</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="text">
+     <string notr="true">Graficar</string>
+    </property>
+    <property name="shortcut">
+     <string notr="true"/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>20</y>
+      <width>381</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>24</pointsize>
+      <kerning>false</kerning>
+     </font>
+    </property>
+    <property name="text">
+     <string>Comparador de Graficas</string>
+    </property>
+   </widget>
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>90</y>
+      <width>1401</width>
+      <height>751</height>
+     </rect>
+    </property>
+    <property name="currentIndex">
+     <number>1</number>
+    </property>
+    <widget class="QWidget" name="Graficas">
+     <attribute name="title">
+      <string>Graficas/Informe</string>
+     </attribute>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>730</x>
+        <y>10</y>
+        <width>211</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Cálculo de coincidencia</string>
+      </property>
+     </widget>
+     <widget class="QChartView" name="chartViewCombined" native="true">
+      <property name="geometry">
+       <rect>
+        <x>20</x>
+        <y>470</y>
+        <width>1371</width>
+        <height>251</height>
+       </rect>
+      </property>
+      <property name="autoFillBackground">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QChartView" name="chartViewPc" native="true">
+      <property name="geometry">
+       <rect>
+        <x>20</x>
+        <y>240</y>
+        <width>661</width>
+        <height>171</height>
+       </rect>
+      </property>
+      <property name="autoFillBackground">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QTextBrowser" name="textBrowserCalculo">
+      <property name="geometry">
+       <rect>
+        <x>730</x>
+        <y>40</y>
+        <width>651</width>
+        <height>361</height>
+       </rect>
+      </property>
+     </widget>
+     <widget class="QChartView" name="chartViewSd" native="true">
+      <property name="geometry">
+       <rect>
+        <x>20</x>
+        <y>30</y>
+        <width>661</width>
+        <height>171</height>
+       </rect>
+      </property>
+      <property name="autoFillBackground">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="labelSd">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>10</y>
+        <width>57</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Gráfica SD:</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="labelCombined">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>440</y>
+        <width>103</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="text">
+       <string>Gráfica combinada:</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="labelPc">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>220</y>
+        <width>58</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Gráfica PC:</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_2">
+     <attribute name="title">
+      <string>Información he instrucciones</string>
+     </attribute>
+     <widget class="QTextBrowser" name="textBrowserInformacion">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>10</y>
+        <width>571</width>
+        <height>701</height>
+       </rect>
+      </property>
+      <property name="html">
+       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;h3 style=&quot;-qt-paragraph-type:empty; margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:large; font-weight:700;&quot;&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;p style=&quot; margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;📄 Información sobre la aplicación&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:11pt; font-weight:700;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Esta aplicación ha sido desarrollada con el objetivo de facilitar el análisis y la comparación de capturas realizadas con el dispositivo &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;EmotiBit&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;, una herramienta biométrica portátil capaz de registrar múltiples señales fisiológicas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;La herramienta permite cargar archivos CSV obtenidos tanto desde la &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;tarjeta SD interna del EmotiBit&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; como desde una &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;captura recibida por protocolo UDP&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;, visualizando y comparando ambas fuentes de datos en gráficas individuales y combinadas. Asimismo, incluye una funcionalidad de cálculo automático para estimar la diferencia en el número de muestras capturadas, permitiendo evaluar posibles pérdidas de datos o desincronizaciones entre ambas vías.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Esta aplicación ha sido creada por &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;Enrique Fuentes&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; como parte de su &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;Trabajo Fin de Grado en Ingeniería&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; en la &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;Universidad Nacional de Educación a Distancia (UNED)&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;, dentro de un proyecto de investigación orientado al análisis multimodal de señales fisiológicas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;El desarrollo ha sido realizado en &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;C++ con Qt&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; y utiliza &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:700;&quot;&gt;Qt Charts&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; para la visualización gráfica. Además, cuenta con un analizador personalizado basado en &lt;/span&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:11pt;&quot;&gt;EmotiBitParser&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; que permite adaptar el tratamiento de los datos a los requerimientos específicos del proyecto.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Esta herramienta está pensada tanto para pruebas internas como para facilitar futuras evaluaciones de rendimiento, calidad de captura y sincronización en estudios que integren EmotiBit en entornos de investigación.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+     <widget class="QTextBrowser" name="textBrowserInstrucciones">
+      <property name="geometry">
+       <rect>
+        <x>710</x>
+        <y>10</y>
+        <width>641</width>
+        <height>701</height>
+       </rect>
+      </property>
+      <property name="html">
+       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;h3 style=&quot;-qt-paragraph-type:empty; margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:large; font-weight:700;&quot;&gt;&lt;br /&gt;&lt;/h3&gt;
+&lt;p style=&quot; margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:large; font-weight:700;&quot;&gt;✅ Requisitos previos&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; font-size:large; font-weight:700;&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:large; font-weight:400;&quot;&gt;Disponer de &lt;/span&gt;&lt;span style=&quot; font-size:large;&quot;&gt;dos archivos CSV&lt;/span&gt;&lt;span style=&quot; font-size:large; font-weight:400;&quot;&gt; generados por EmotiBit:&lt;/span&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 2;&quot;&gt;
+&lt;li style=&quot; font-size:large; font-weight:700;&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:large;&quot;&gt;Uno grabado desde la tarjeta SD del dispositivo.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-size:large; font-weight:700;&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:large;&quot;&gt;Otro recibido en tiempo real mediante UDP y almacenado localmente.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Ambos archivos deben estar correctamente sincronizados en cuanto a formato y canal.&lt;/li&gt;&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3 style=&quot; margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:large; font-weight:700;&quot;&gt;🧭 Pasos para utilizar la aplicación&lt;/span&gt;&lt;/h3&gt;
+&lt;h4 style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; font-weight:700;&quot;&gt;1. Seleccionar los archivos&lt;/span&gt;&lt;/h4&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Haz clic en &lt;span style=&quot; font-weight:700;&quot;&gt;“Seleccionar archivo PC”&lt;/span&gt; para cargar el archivo generado desde UDP.&lt;/li&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Haz clic en &lt;span style=&quot; font-weight:700;&quot;&gt;“Seleccionar archivo SD”&lt;/span&gt; para cargar el archivo desde la tarjeta del dispositivo.&lt;/li&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;El programa mostrará en la consola la ruta de los archivos seleccionados.&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; font-weight:700;&quot;&gt;2. Elegir el canal de análisis&lt;/span&gt;&lt;/h4&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Usa el desplegable &lt;span style=&quot; font-weight:700;&quot;&gt;“Seleccionar canal”&lt;/span&gt; para elegir el tipo de señal a comparar (por ejemplo: AX, GY, HR...).&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; font-weight:700;&quot;&gt;3. Graficar&lt;/span&gt;&lt;/h4&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Pulsa el botón &lt;span style=&quot; font-weight:700;&quot;&gt;“Graficar”&lt;/span&gt; para generar las siguientes gráficas:
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 2;&quot;&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;📊 &lt;span style=&quot; font-weight:700;&quot;&gt;Gráfica combinada&lt;/span&gt;: Superposición de ambas señales para comparación visual.&lt;/li&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;📈 &lt;span style=&quot; font-weight:700;&quot;&gt;Gráfica PC&lt;/span&gt;: Señal recibida por UDP.&lt;/li&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;📉 &lt;span style=&quot; font-weight:700;&quot;&gt;Gráfica SD&lt;/span&gt;: Señal almacenada en la SD del dispositivo.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; font-weight:700;&quot;&gt;4. Calcular coincidencia&lt;/span&gt;&lt;/h4&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Pulsa el botón &lt;span style=&quot; font-weight:700;&quot;&gt;“Calcular coincidencia”&lt;/span&gt;.&lt;/li&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;En el cuadro &lt;span style=&quot; font-weight:700;&quot;&gt;“Resultado de cálculo”&lt;/span&gt; (&lt;span style=&quot; font-family:'Courier New';&quot;&gt;textBrowserCalculo&lt;/span&gt;), se mostrará:
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 2;&quot;&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;El número de muestras comunes detectadas en cada archivo.&lt;/li&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;El porcentaje de diferencia entre ambos.&lt;/li&gt;
+&lt;li style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Los nombres de los archivos y el canal analizado.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1409</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QChartView</class>
+   <extends>QWidget</extends>
+   <header>qchartview.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

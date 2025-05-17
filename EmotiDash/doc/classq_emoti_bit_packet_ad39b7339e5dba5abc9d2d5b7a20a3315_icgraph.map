@@ -1,0 +1,27 @@
+<map id="qEmotiBitPacket::createPacket" name="qEmotiBitPacket::createPacket">
+<area shape="rect" id="Node000001" title="Crea un paquete EmotiBit a partir de datos en formato QString." alt="" coords="893,181,1097,208"/>
+<area shape="rect" id="Node000002" href="$classq_emoti_bit_packet.html#a69c486835ecdc2210b9e4197ef70873f" title="Crea un paquete EmotiBit a partir de un QVector de datos." alt="" coords="640,5,845,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="972,171,917,112,882,80,843,53,802,35,804,30,846,48,885,76,921,108,976,167"/>
+<area shape="rect" id="Node000003" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a479561ab9243c7c085df1e01cfcf7f8b" title=" " alt="" coords="437,107,592,149"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="966,173,913,131,879,112,844,97,811,89,776,85,706,86,640,95,584,109,582,104,639,90,706,81,776,80,811,84,845,92,882,107,916,127,970,168"/>
+<area shape="rect" id="Node000006" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a668d3244786b7408322174850ca44aaa" title=" " alt="" coords="665,173,820,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="877,197,821,197,821,192,877,192"/>
+<area shape="rect" id="Node000009" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#abce274263f298bd5500d3ce59c61a9fc" title=" " alt="" coords="665,107,820,149"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="926,179,820,151,821,146,927,174"/>
+<area shape="rect" id="Node000010" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#aa5bf5d6537f664db044d1d6617bb7a50" title=" " alt="" coords="665,240,820,283"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="927,215,821,243,820,238,926,210"/>
+<area shape="rect" id="Node000011" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#acc685929a99fb805ec857ba3ac51d8de" title="Envia una orden al EmotiBit conectado para iniciar la grabación." alt="" coords="665,307,820,349"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="966,220,911,259,846,297,819,309,817,304,843,292,909,254,963,216"/>
+<area shape="rect" id="Node000012" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#aa681c28a859c06dfdeeefa5f4c2084ef" title=" " alt="" coords="665,373,820,416"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="979,223,925,292,888,331,846,364,822,376,819,372,843,359,884,327,921,289,975,219"/>
+<area shape="rect" id="Node000004" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a69989a151b0cc117dce7b6d1df66f607" title=" " alt="" coords="209,107,389,149"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="421,131,389,131,389,125,421,125"/>
+<area shape="rect" id="Node000005" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#afb3095e8c8643fae1da87c36e97d745a" title="Inicializa la conexión WiFi con el dispositivo EmotiBit." alt="" coords="5,140,161,183"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="194,147,162,152,161,147,193,142"/>
+<area shape="rect" id="Node000007" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#afa6092c5b41153887bc9faf76a775edc" title=" " alt="" coords="437,173,592,216"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="649,197,593,197,593,192,649,192"/>
+<area shape="rect" id="Node000008" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a19f2caa38c7732e97a4bb4b7327e6358" title=" " alt="" coords="221,173,376,216"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="421,197,377,197,377,192,421,192"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="205,183,161,176,162,171,206,178"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="649,131,593,131,593,125,649,125"/>
+</map>

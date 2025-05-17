@@ -1,0 +1,17 @@
+<map id="EmotiBitWiFiRoboTEA::getTimestampString" name="EmotiBitWiFiRoboTEA::getTimestampString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="819,105,974,148"/>
+<area shape="rect" id="Node000002" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a668d3244786b7408322174850ca44aaa" title=" " alt="" coords="615,5,771,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="842,100,769,62,745,51,747,46,772,58,844,95"/>
+<area shape="rect" id="Node000006" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#aa5bf5d6537f664db044d1d6617bb7a50" title=" " alt="" coords="615,72,771,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="803,114,771,109,772,103,804,109"/>
+<area shape="rect" id="Node000007" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#acc685929a99fb805ec857ba3ac51d8de" title="Envia una orden al EmotiBit conectado para iniciar la grabación." alt="" coords="615,139,771,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="804,145,772,150,771,145,803,139"/>
+<area shape="rect" id="Node000008" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#aa681c28a859c06dfdeeefa5f4c2084ef" title=" " alt="" coords="615,205,771,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="844,158,772,196,747,207,745,202,769,191,842,153"/>
+<area shape="rect" id="Node000003" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#afa6092c5b41153887bc9faf76a775edc" title=" " alt="" coords="412,5,567,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="600,29,568,29,568,24,600,24"/>
+<area shape="rect" id="Node000004" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a19f2caa38c7732e97a4bb4b7327e6358" title=" " alt="" coords="209,5,364,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,29,365,29,365,24,397,24"/>
+<area shape="rect" id="Node000005" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#afb3095e8c8643fae1da87c36e97d745a" title="Inicializa la conexión WiFi con el dispositivo EmotiBit." alt="" coords="5,5,161,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,29,161,29,161,24,193,24"/>
+</map>

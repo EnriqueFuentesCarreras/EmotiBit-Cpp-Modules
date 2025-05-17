@@ -1,0 +1,26 @@
+var class_emoti_bit_controller =
+[
+    [ "EmotiBitController", "class_emoti_bit_controller.html#a57904caba7f7eb63b92d2f9342a4f8f6", null ],
+    [ "~EmotiBitController", "class_emoti_bit_controller.html#a8a22b8df696016026b09109d23f790e7", null ],
+    [ "batteryLevelUpdated", "class_emoti_bit_controller.html#a0dd1afd7af8dc2c07f93eadf401349fc", null ],
+    [ "begin", "class_emoti_bit_controller.html#a3c58b5b8b0343802910aeaadbe7f093f", null ],
+    [ "connectToDevice", "class_emoti_bit_controller.html#aeec0ab533183f5ec3ef32dcf6f5e7764", null ],
+    [ "deviceModeUpdated", "class_emoti_bit_controller.html#a1c1aa6edf49a5fb9a1b8e3a4156aceb6", null ],
+    [ "devicesDiscovered", "class_emoti_bit_controller.html#ac037e17b7805eb20c43947f7c5e74046", null ],
+    [ "disconnectFromDevice", "class_emoti_bit_controller.html#a34b8a66f1a7f1db085fc8ac615a3ce6b", null ],
+    [ "discoverDevices", "class_emoti_bit_controller.html#a1416ecf0348f86393547f40b4e986abc", null ],
+    [ "getAvailableDeviceIds", "class_emoti_bit_controller.html#a9afeebbe90342a022ebcbc2e095d9110", null ],
+    [ "getDiscoveredDevices", "class_emoti_bit_controller.html#a0b772bb7ddaf8e4ed8c2ba41699fee24", null ],
+    [ "newMessage", "class_emoti_bit_controller.html#ab6bc6250c9f147fa1456dfbba214e03d", null ],
+    [ "recordingStateUpdated", "class_emoti_bit_controller.html#abc1f50c372c285e7eed90a6ec87b84cd", null ],
+    [ "reiniciarTiempo", "class_emoti_bit_controller.html#a8321ec6b07e5f4555d88643f41204e40", null ],
+    [ "sendNota", "class_emoti_bit_controller.html#a2323c1b7393aa36de8dbf2eba77f61d0", null ],
+    [ "sensorDataReceived", "class_emoti_bit_controller.html#a6c126b7443e8e82543a56c3a92fcaf6c", null ],
+    [ "startLocalRecording", "class_emoti_bit_controller.html#a70820003a894666767e091dbf1b05652", null ],
+    [ "startLocalRecording", "class_emoti_bit_controller.html#a7f780b74cdd5a000cb9a4cf1dbf276a8", null ],
+    [ "startRecordingOnSD", "class_emoti_bit_controller.html#a7e8c8e4af5bd2259f0adb201c2cb29c1", null ],
+    [ "stop", "class_emoti_bit_controller.html#aebf4645190665d056e84fd40fe099ce9", null ],
+    [ "stopLocalRecording", "class_emoti_bit_controller.html#aa978c842e498fb0c9ddc4b3fc08fd0f6", null ],
+    [ "stopRecordingOnSD", "class_emoti_bit_controller.html#ac6fc160c3e523a28bd9c80dded03cdc3", null ],
+    [ "channelFrequencies", "class_emoti_bit_controller.html#a81e0dd021d39e4fb10a185f083934cab", null ]
+];

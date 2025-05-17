@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FormPlot</class>
+ <widget class="QWidget" name="FormPlot">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1098</width>
+    <height>687</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Graficos Datos Biomentricos</string>
+  </property>
+  <widget class="QLabel" name="label_tmp">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>63</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Tiempo:</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>0</y>
+     <width>861</width>
+     <height>591</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Graficas</string>
+   </property>
+   <widget class="QLabel" name="labelTime">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>30</y>
+      <width>161</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>----</string>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotHR">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotPG">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>380</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotPI">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>220</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotPR">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>300</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotMXMYMZ">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>300</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotT1THT0">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>460</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotEA">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>60</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotSF">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>220</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotSR">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>140</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotAXAYAZ">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>380</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotGXGYGZ">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>460</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="customPlotSA">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>140</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <zorder>groupBox</zorder>
+  <zorder>label_tmp</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

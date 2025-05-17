@@ -1,0 +1,18 @@
+<map id="EmotiBitWiFiRoboTEA::updateData" name="EmotiBitWiFiRoboTEA::updateData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,161,91"/>
+<area shape="rect" id="Node000002" href="$classq_emoti_bit_packet.html#a9262319d6d9df0e2f7ecee825e9977f2" title="Extrae el encabezado de un paquete a partir de su representación en texto completo." alt="" coords="420,5,608,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,45,208,33,309,22,405,17,405,22,309,27,209,39,157,50"/>
+<area shape="rect" id="Node000003" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a1243dc4fc6cc69988dc5fb186d30c630" title=" " alt="" coords="209,48,364,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,67,193,67,193,72,161,72"/>
+<area shape="rect" id="Node000004" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a668d3244786b7408322174850ca44aaa" title=" " alt="" coords="209,115,364,157"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,89,205,107,204,112,149,94"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="344,112,362,101,377,87,385,73,395,59,411,46,430,36,432,40,413,50,399,63,390,76,381,90,366,105,347,116"/>
+<area shape="rect" id="Node000005" href="$classq_emoti_bit_packet.html#ad39b7339e5dba5abc9d2d5b7a20a3315" title="Crea un paquete EmotiBit a partir de datos en formato QString." alt="" coords="412,60,616,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="358,112,411,96,440,88,442,94,413,101,359,117"/>
+<area shape="rect" id="Node000006" href="$classq_emoti_bit_packet.html#ac75acc92cc5927daebd32ab184a045cf" title="Extrae un único elemento (campo) del paquete a partir de una posición dada." alt="" coords="421,111,607,153"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="364,132,405,131,406,137,365,137"/>
+<area shape="rect" id="Node000007" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a625e99b73b5e371228dee00c0af567c2" title=" " alt="" coords="436,177,592,220"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="365,155,422,171,421,176,364,160"/>
+<area shape="rect" id="Node000008" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a038c54ef88640a7c9738a22f13ce96e8" title=" " alt="" coords="436,244,592,287"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="312,156,357,193,413,230,424,235,422,240,411,234,354,197,309,160"/>
+</map>

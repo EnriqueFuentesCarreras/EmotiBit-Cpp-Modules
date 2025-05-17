@@ -1,0 +1,6 @@
+<map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,185,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="56,30,49,21,54,11,70,5,95,3,123,5,137,12,135,17,121,10,95,8,71,10,58,15,55,20,61,27"/>
+<area shape="rect" id="Node000002" href="$class_emoti_bit_emulator.html#ad820e027fc8623fdd0ddf2ae17992f7c" title=" " alt="" coords="233,21,417,64"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="185,40,217,40,217,45,185,45"/>
+</map>

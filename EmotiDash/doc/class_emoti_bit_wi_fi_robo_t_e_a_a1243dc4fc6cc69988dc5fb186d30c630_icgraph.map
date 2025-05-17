@@ -1,0 +1,11 @@
+<map id="EmotiBitWiFiRoboTEA::newDataPacket" name="EmotiBitWiFiRoboTEA::newDataPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="615,39,771,81"/>
+<area shape="rect" id="Node000002" href="$class_emoti_bit_controller.html#a57904caba7f7eb63b92d2f9342a4f8f6" title=" " alt="" coords="422,5,557,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="600,47,557,40,558,35,601,42"/>
+<area shape="rect" id="Node000003" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#afa6092c5b41153887bc9faf76a775edc" title=" " alt="" coords="412,72,567,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="601,78,568,83,567,78,600,73"/>
+<area shape="rect" id="Node000004" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#a19f2caa38c7732e97a4bb4b7327e6358" title=" " alt="" coords="209,72,364,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,96,365,96,365,91,397,91"/>
+<area shape="rect" id="Node000005" href="$class_emoti_bit_wi_fi_robo_t_e_a.html#afb3095e8c8643fae1da87c36e97d745a" title="Inicializa la conexión WiFi con el dispositivo EmotiBit." alt="" coords="5,72,161,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,96,161,96,161,91,193,91"/>
+</map>

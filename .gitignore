@@ -1,0 +1,11 @@
+*.pro.user
+*.o
+*.obj
+*.exe
+*.dll
+*.log
+*.tmp
+build*/
+debug/
+release/
+.DS_Store
