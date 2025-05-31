@@ -306,7 +306,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Comparador de Graficas</string>
+     <string>Comparador de Gráficas</string>
     </property>
    </widget>
    <widget class="QTabWidget" name="tabWidget">
@@ -435,7 +435,7 @@
     </widget>
     <widget class="QWidget" name="tab_2">
      <attribute name="title">
-      <string>Información he instrucciones</string>
+      <string>Información e instrucciones</string>
      </attribute>
      <widget class="QTextBrowser" name="textBrowserInformacion">
       <property name="geometry">
